@@ -15,15 +15,15 @@ I used two datasets the fifa ranking and results
 
 # Environment and tools
 
-Google colab Notebook
-Numpy
-Pandas
-Seaborn
-Matplotlib
-Scikit-learn
+1. Google colab Notebook
+2. Numpy
+3. Pandas
+4. Seaborn
+5. Matplotlib
+6. Scikit-learn
 
 # Bugs  
-no known bugs 
+No known bugs 
 
 # License information with a copyright and date 
 
